@@ -1,26 +1,24 @@
 // src/components/Product.jsx
 import { Link } from 'react-router-dom';
 import { useSearch } from '../context/SearchContext';
-import furniture from '../assets/furniture.jpg';
+
 import sofa1 from '../assets/sofa1.jpg';
-import sofa2 from '../assets/sofa2.jpg';
+
 import sofa3 from '../assets/sofa3.jpg';
 import table1 from '../assets/table1.jpg';
 import table2 from '../assets/table2.jpg';
 import table3 from '../assets/table3.jpg';
 import chair1 from '../assets/chair1.jpg';
-import chair2 from '../assets/chair2.jpg';
-import chair3 from '../assets/chair3.jpg';
+
 import bed1 from '../assets/bed1.jpg';
-import bed2 from '../assets/bed2.jpg';
-import bed3 from '../assets/bed3.jpg';
-import lightning1 from '../assets/lightning1.jpg';
+
+
 import lightning2 from '../assets/lightning2.jpg';
-import lightning3 from '../assets/lightning3.jpg';
-import decore1 from '../assets/decore1.jpg';
+
+;
 import decore2 from '../assets/decore2.jpg';
 import decore3 from '../assets/decore3.jpg';
-import Leather from '../assets/leather.jpg';
+import Leather from '../assets/Leather.jpg';
 import desk from '../assets/desk.jpg';
 
 const Product = () => {
